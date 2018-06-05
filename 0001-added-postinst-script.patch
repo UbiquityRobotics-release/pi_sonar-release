@@ -1,4 +1,4 @@
-From fa3c43b9c497bf88f58a63b1c222bdb341085562 Mon Sep 17 00:00:00 2001
+From d99537de77ec57bc2a8bf3c5bea4c77d936cac1e Mon Sep 17 00:00:00 2001
 From: Rohan Agrawal <send2arohan@gmail.com>
 Date: Mon, 4 Jun 2018 15:33:04 -0700
 Subject: [PATCH] added postinst script
