@@ -2,6 +2,12 @@
 Changelog for package pi_sonar
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.4.0 (2019-02-16)
+------------------
+* fix incorrect launch file in the README
+* Basic diagnostics added
+* Contributors: Rohan Agrawal, Rohit Suri
+
 0.3.1 (2018-06-04)
 ------------------
 * explictly add rpath
