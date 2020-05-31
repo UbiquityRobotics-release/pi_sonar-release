@@ -2,11 +2,13 @@
 Changelog for package pi_sonar
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.6.1 (2020-05-31)
+0.6.2 (2020-05-31)
 ------------------
-* Added dependancy on libpigpiod-if
+* Added dependancy on libpigpio
 * Contributors: Rohan Agrawal
 
+0.6.1 (2020-05-31)
+------------------
 * Added dependancy on libpigpiod-if
 * Contributors: Rohan Agrawal
 
