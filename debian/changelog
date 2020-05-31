@@ -1,0 +1,51 @@
+ros-kinetic-pi-sonar (0.6.2-1xenial) xenial; urgency=high
+
+  * Added dependancy on libpigpio
+  * Contributors: Rohan Agrawal
+
+ -- Rohan Agrawal <ra@ubiquityrobotics.com>  Sun, 31 May 2020 07:00:00 -0000
+
+ros-kinetic-pi-sonar (0.6.1-1xenial) xenial; urgency=high
+
+  * Added dependancy on libpigpiod-if
+  * Contributors: Rohan Agrawal
+
+ -- Rohan Agrawal <ra@ubiquityrobotics.com>  Sun, 31 May 2020 07:00:00 -0000
+
+ros-kinetic-pi-sonar (0.6.0-1xenial) xenial; urgency=high
+
+  * Removed pigpio, reworked code to work with pigpiod (#12 <https://github.com/UbiquityRobotics/pi_sonar/issues/12>)
+  * Contributors: Rohan Agrawal, MoffKalast
+
+ -- Rohan Agrawal <ra@ubiquityrobotics.com>  Sun, 31 May 2020 07:00:00 -0000
+
+ros-kinetic-pi-sonar (0.5.0-1xenial) xenial; urgency=high
+
+  * Updating pigpio to v71 (#11 <https://github.com/UbiquityRobotics/pi_sonar/issues/11>)
+  * Contributors: Jim Vaughan, MoffKalast, Rohan Agrawal
+
+ -- Rohan Agrawal <ra@ubiquityrobotics.com>  Sat, 30 May 2020 07:00:00 -0000
+
+ros-kinetic-pi-sonar (0.4.0-1xenial) xenial; urgency=high
+
+  * fix incorrect launch file in the README
+  * Basic diagnostics added
+  * Contributors: Rohan Agrawal, Rohit Suri
+
+ -- Rohan Agrawal <ra@ubiquityrobotics.com>  Sat, 16 Feb 2019 08:00:00 -0000
+
+ros-kinetic-pi-sonar (0.3.1-1xenial) xenial; urgency=high
+
+  * explictly add rpath
+  * Contributors: Rohan Agrawal
+
+ -- Rohan Agrawal <ra@ubiquityrobotics.com>  Mon, 04 Jun 2018 07:00:00 -0000
+
+ros-kinetic-pi-sonar (0.3.0-1xenial) xenial; urgency=high
+
+  * Initial Release
+  * Contributors: Jim Vaughan Rohan Agrawal
+
+ -- Rohan Agrawal <ra@ubiquityrobotics.com>  Mon, 04 Jun 2018 07:00:00 -0000
+
+
