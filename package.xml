@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>pi_sonar</name>
-  <version>0.6.1</version>
+  <version>0.6.2</version>
   <description>ROS package for running sonars off the Raspberry Pi</description>
 
   <maintainer email="ra@ubiquityrobotics.com">Rohan Agrawal</maintainer>
@@ -20,6 +20,7 @@
   <run_depend>sensor_msgs</run_depend>
   <run_depend>diagnostic_updater</run_depend>
   <run_depend>libpigpiod-if</run_depend>
+  <run_depend>libpigpio</run_depend>
 
   <export>
   </export>
