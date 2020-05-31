@@ -1,3 +1,26 @@
+## pi_sonar (kinetic) - 0.6.0-1
+
+The packages in the `pi_sonar` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release pi_sonar --rosdistro kinetic --no-pull-request` on `Sun, 31 May 2020 19:10:29 -0000`
+
+The `pi_sonar` package was released.
+
+Version of package(s) in repository `pi_sonar`:
+
+- upstream repository: https://github.com/UbiquityRobotics/pi_sonar.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.5.0-1`
+- new version: `0.6.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## pi_sonar (kinetic) - 0.5.0-1
 
 The packages in the `pi_sonar` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release pi_sonar --rosdistro kinetic` on `Sat, 30 May 2020 15:56:27 -0000`
