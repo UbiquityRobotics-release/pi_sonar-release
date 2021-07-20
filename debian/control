@@ -1,0 +1,12 @@
+Source: ros-noetic-pi-sonar
+Section: misc
+Priority: optional
+Maintainer: Rohan Agrawal <ra@ubiquityrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), libpigpio-dev, libpigpiod-if-dev, ros-noetic-catkin, ros-noetic-diagnostic-updater, ros-noetic-roscpp, ros-noetic-sensor-msgs
+Homepage: http://github.com/UbiquityRobotics/pi_sonar
+Standards-Version: 3.9.2
+
+Package: ros-noetic-pi-sonar
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libpigpio-dev, libpigpiod-if-dev, ros-noetic-diagnostic-updater, ros-noetic-roscpp, ros-noetic-sensor-msgs
+Description: ROS package for running sonars off the Raspberry Pi
